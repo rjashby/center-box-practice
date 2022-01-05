@@ -1,0 +1,18 @@
+.my-class {
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
